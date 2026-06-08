@@ -1,6 +1,6 @@
 # Proyecto de prueba para auditoría de IA
 
-Este repositorio contiene una aplicación ficticia para probar análisis de código por modelos de lenguaje y un informe con los resultados y se añaden capturas de la resolución de los primeros 8 niveles de este ctf [text](https://prompting.ai.immersivelabs.com/)
+Este repositorio contiene una aplicación ficticia para probar análisis de código por modelos de lenguaje y un informe con los resultados y se añaden capturas de la resolución de los primeros 8 niveles de este ctf [https://prompting.ai.immersivelabs.com/](https://prompting.ai.immersivelabs.com/)
 
 ## Descripción
 
